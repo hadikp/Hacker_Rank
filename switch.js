@@ -24,5 +24,3 @@ function getLetter(s) {
 let s = 'hdfgt';
 getLetter(s);
 console.log('--------------------');
-
-function
